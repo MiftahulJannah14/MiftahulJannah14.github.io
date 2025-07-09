@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Miftahul+Jannah!;Informatics+Student+%7C+7th+Semester;Aspiring+IT+Project+Manager" alt="Typing SVG" />
 </h1>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkwNTU2NWExMTM5YmFjZGYzNTY4MDU0YTUwYTA3NzFjOWM5N2E4ZiZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" alt="Computer gif" />
+<img src="img/profile_compressed.jpg" width="180" alt="Miftahul Jannah Photo" style="border-radius: 50%; border: 2px solid #a855f7;" />
 
 </div>
 
