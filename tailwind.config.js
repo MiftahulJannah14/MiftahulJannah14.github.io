@@ -1,22 +1,15 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["*.html"],
+  content: ["./*.html"],
   theme: {
-    container: {
-      center: true,
-      padding: "16px",
-    },
     extend: {
       colors: {
-        primary: "#c026d",
-        dark: "#475569",
-        secondary: "#64748b",
-      },
-      screen: {
-        "2xl": "1320px",
+        primary: "#9333ea", // ungu tua
+        secondary: "#a855f7", // ungu muda
       },
       fontFamily: {
-        poppins : ["Poppins", "sans-serif"],
-      }
+        sans: ["Inter", "sans-serif"],
+      },
     },
   },
   plugins: [],
