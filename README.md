@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with Me
 
-- 📫 Email: miftahulj07@gmail.com  
+- 📫 Email: mifftahulj07@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/miftahul-jannah-081b3124b](https://www.linkedin.com/in/miftahul-jannah-081b3124b)  
 - 🌐 Portfolio GitHub Page: [miftahuljannah14.github.io](https://miftahuljannah14.github.io)
 
