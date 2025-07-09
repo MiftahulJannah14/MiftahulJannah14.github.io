@@ -1,36 +1,55 @@
-# 👋 Hi, I'm Miftahul Jannah!
+<div align="center">
 
-🎓 I'm a 7th semester Informatics student at Universitas Bakrie  
-💼 Passionate about **IT Project Management**, event coordination, and software documentation  
-🛠️ Currently learning **Java**, **MySQL**, and basic web development  
-📚 Active in campus organization (HMTIF) as Secretary & Human Resource Division member  
-🌱 I enjoy turning plans into action and leading structured teamwork
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Miftahul+Jannah!;Informatics+Student+%7C+7th+Semester;Aspiring+IT+Project+Manager" alt="Typing SVG" />
+</h1>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkwNTU2NWExMTM5YmFjZGYzNTY4MDU0YTUwYTA3NzFjOWM5N2E4ZiZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" alt="Computer gif" />
 
-## 🔗 Connect with Me
+</div>
 
-- 📫 Email: mifftahulj07@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/miftahul-jannah-081b3124b](https://www.linkedin.com/in/miftahul-jannah-081b3124b)  
-- 🌐 Portfolio GitHub Page: [miftahuljannah14.github.io](https://miftahuljannah14.github.io)
+# <span style="color:#a855f7; font-weight:bold;">👩‍💻 Miftahul Jannah</span>
 
----
-
-## 🧰 Tools & Technologies
-
-- Java • MySQL • HTML/CSS  
-- Git & GitHub • Microsoft Office • Canva  
+**<span style="color:#7e22ce">Informatics Engineering Student | Aspiring IT Project Manager</span>**  
+🌐 Universitas Bakrie | 🎓 7th Semester | 💼 Active in Student Organization
 
 ---
 
-## 📌 Featured Projects
-
-| Project Name | Description |
-|--------------|-------------|
-| Database Normalization | ERD + 1NF–3NF using MySQL |
-| Event Proposal & LPJ | Documents for campus event management |
-| Java Basic Apps | Mini projects made during class practice |
+## 💡 <span style="color:#9333ea">About Me</span>
+Hi! I'm <strong style="color:#6b21a8">Miftahul Jannah</strong>, an Informatics Engineering student at Universitas Bakrie. I have a strong passion for <span style="color:#7c3aed">IT Project Management</span>, team coordination, and system documentation. Through my organizational experience and academic journey, I've developed the ability to manage projects, work collaboratively, and solve problems with a structured approach.
 
 ---
 
-> _“Always learning, always growing.”_
+## 🚀 <span style="color:#9333ea">Tech Stack & Tools</span>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,tailwind,github" />
+</p>
+
+---
+
+## 🧩 <span style="color:#9333ea">Organizational Experience</span>
+- **Secretary – HMTIF Universitas Bakrie (2023–2024)**  
+  Handled member documentation, proposal writing, and post-event reporting.
+- **Member – HMTIF (2024–2025)**  
+  Contributed in event logistics for Platform and public relations in Compiler XV.
+
+---
+
+## 📁 <span style="color:#9333ea">Projects</span>
+- 📊 **Database Normalization** – Designed ERD & applied 1NF–3NF using MySQL
+- ☕ **Java Mini Apps** – Created simple Java-based desktop applications
+- 📝 **Event Documentation** – Developed official proposals and LPJ for organizational events
+
+---
+
+## 📫 <span style="color:#9333ea">Contact Me</span>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftahul-jannah-081b3124b)  
+📧 mifftahulj07@gmail.com
+
+---
+
+> <span style="color:#6d28d9">"Keep learning, keep growing, and stay curious."</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiftahulJannah14&show_icons=true&theme=tokyonight" />
+</p>
